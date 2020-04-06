@@ -4003,8 +4003,8 @@ input, select, textarea {
 		}
 
 /* Footer */
-
 	#footer .inner {
+		padding: 0;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
