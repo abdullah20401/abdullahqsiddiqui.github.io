@@ -351,6 +351,7 @@ input, select, textarea {
 		border: 0;
 		border-bottom: solid 2px rgba(255, 255, 255, 0.125);
 		margin: 2.5em 0;
+		width: 18em;
 	}
 
 		hr.major {
@@ -4004,7 +4005,6 @@ input, select, textarea {
 /* Footer */
 
 	#footer .inner {
-		padding: 5em 0 3em 0 ;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
